@@ -4,7 +4,7 @@
 ## Installation
 ```console
 # clone the repo
-$ git clone https://github.com/sherlock-project/sherlock.git
+$ git clone https://github.com/Ryokucha-N/himitsu.git
 
 # change the working directory
 $ cd himitsu
