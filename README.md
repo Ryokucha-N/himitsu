@@ -1,4 +1,7 @@
 # Himitsu
+![interactive mode
+](interactive.png)
+
 А steganographic script that puts files into an image
 
 ## Installation
