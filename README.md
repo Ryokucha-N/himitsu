@@ -2,7 +2,7 @@
 ![interactive mode
 ](interactive.png)
 
-А steganographic script that puts files into an image
+А steganographic script  to hide files in images and audio files
 
 ## Installation
 ```console
@@ -24,12 +24,20 @@ Select the mode (enter the menu item number). Next, enter the data that the scri
 $ python3 himitsu.py [mode] [arguments]
 ```
 
-if save mode is selected:
+Saving:
 ```console
-$ python3 himitsu.py s [input_image] [input_file] [output_image]
+# image
+$ python3 himitsu.py si [input_image] [input_datafile] [output_image]
+
+# audio
+$ python3 himitsu.py sa [input_audio] [input_datafile] [output_audio]
 ```
 
-if load mode is selected:
+Loading:
 ```console
-$ python3 himitsu.py l [input_image] [output_file]
+# image
+$ python3 himitsu.py li [input_image] [output_datafile]
+
+# audio
+$ python3 himitsu.py li [input_audio] [output_datafile]
 ```
