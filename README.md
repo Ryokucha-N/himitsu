@@ -13,7 +13,7 @@ Supported image formats:
   .tga
   .tif
   
-but in theory all rgba image formats with lossless compression are supported 
+but in theory all RGBA image formats with lossless compression are supported 
 
 
 ## Installation
