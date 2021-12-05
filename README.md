@@ -4,6 +4,15 @@
 
 А steganographic script  to hide files in images and audio files
 
+Supported audio formats:
+  .waw
+
+Supported image formats:
+  .png
+  .tga
+  .tif
+but in theory all rgba image formats with lossless compression are supported 
+
 ## Installation
 ```console
 # clone the repo
