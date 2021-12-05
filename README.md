@@ -5,12 +5,10 @@
 А steganographic script  to hide files in images and audio files
 
 Supported audio formats:
-
   .waw
 
 
 Supported image formats:
-
   .png
   .tga
   .tif
