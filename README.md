@@ -5,7 +5,7 @@
 А steganographic script  to hide files in images and audio files
 
 Supported audio formats:
-  .waw
+  .waw(stereo)
 
 
 Supported image formats:
@@ -23,6 +23,9 @@ $ git clone https://github.com/Ryokucha-N/himitsu.git
 
 # change the working directory
 $ cd himitsu
+
+# install the requirements
+$ python3 -m pip install -r requirements.txt
 ```
 ## Usage
 ### interactive
